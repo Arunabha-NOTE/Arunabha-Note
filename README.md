@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Languages I know</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
