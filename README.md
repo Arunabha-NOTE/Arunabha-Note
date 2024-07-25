@@ -110,12 +110,12 @@
 ###
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=samunicode&show_icons=true&hide_border=true&theme=algolia" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=samunicode&hide_border=true&theme=algolia" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Arunabha-Note&show_icons=true&hide_border=true&theme=algolia" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunabha-Note&hide_border=true&theme=algolia" />
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arunabha-Note&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" width="50% alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Arunabha-Note&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" width="50% alt="streak graph"  />
 </div>
 
 ###
