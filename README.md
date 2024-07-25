@@ -111,10 +111,11 @@
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Arunabha-Note&show_icons=true&hide_border=true&theme=algolia" height="250px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunabha-Note&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="250px"  width="50%" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Arunabha-Note&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" width="50% alt="streak graph" height="250px" />
 </p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arunabha-Note&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" width="50% alt="streak graph" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunabha-Note&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="250px"  width="50%" alt="languages graph"  />
+  
 </div>
 
 ###
