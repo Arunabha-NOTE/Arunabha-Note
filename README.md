@@ -8,7 +8,13 @@
 
 ###
 
-<h2 align="left">Languages</h2>
+<h2 align="left">Technical Skills</h2>
+
+###
+
+###
+
+<h3 align="left">Languages</h3>
 
 ###
 
