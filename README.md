@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"></head>
+
 <h1 align="left">Hey There</h1>
 
 ###
@@ -7,113 +10,191 @@
 ###
 
 ###
-
-<h2 align="left">Technical Skills</h2>
-
-###
-
-###
-
-<h3 align="left">Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />         
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
+<h2 class="bg-gradient-to-r from-[#ff00cc] to-[#818cf8] text-transparent bg-clip-text mx-auto text-4xl font-bold p-4 max-w-7xl ">
+    Tools & Technologies</h2>
+<P class="mx-auto p-4 max-w-7xl">Below are the tools and Technologies that i have familiarity with and have made use of in my projects and research.</P>
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">Languages</h2>
+<div class="max-w-7xl px-4 gap-4 flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-java-plain px-1"></i>
+        Java</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-typescript-plain px-1"></i>
+        Typescript</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-javascript-plain px-1"></i>
+        Javascript</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-bash-plain px-1"></i>
+        Bash</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-python-plain px-1"></i>
+        Python</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-c-plain px-1"></i>
+        C</kbd>
 </div>
 
-###
-
-<h3 align="left">DevOps</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" height="40" alt="CircleCi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">DevOps & Automation</h2>
+<div class="max-w-7xl px-4 gap-4 flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-docker-plain px-1"></i>
+        Docker</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-kubernetes-plain px-1"></i>
+        Kubernetes</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-terraform-plain px-1"></i>
+        Terraform</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-circleci-plain px-1"></i>
+        CircleCi</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-gitlab-plain px-1"></i>
+        Gitlab</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-githubactions-plain px-1"></i>
+        Github Actions</kbd>
 </div>
 
-###
-
-<h3 align="left">Frontend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">Frontend</h2>
+<div class="max-w-7xl px-4 gap-4 flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-angular-plain px-1"></i>
+        Angular</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-react-original px-1"></i>
+        React</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-nextjs-plain px-1"></i>
+        NextJs</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-tailwindcss-original px-1"></i>
+        TailwindCSS</kbd>
 </div>
 
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastApi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo"  />
-  <img width="12" />
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">Backend</h2>
+<div class="max-w-7xl px-4 gap-4 flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-spring-original px-1"></i>
+        Spring</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-nodejs-plain px-1"></i>
+        NodeJS</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-express-original px-1"></i>
+        Express</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-fastapi-plain px-1"></i>
+        FastApi</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-supabase-plain px-1"></i>
+        Supabase</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-prisma-original px-1"></i>
+        Prisma</kbd>
 </div>
 
-###
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">Cloud Platform & Deployment</h2>
+<div class="max-w-7xl px-4 gap-4 flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-amazonwebservices-plain px-1"></i>
+        AWS</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-vercel-original px-1"></i>
+        Vercel</kbd>
+</div>
 
-<h3 align="left">Others</h3>
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">DBMS</h2>
+<div class="max-w-7xl px-4 gap-4 flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-mongodb-plain px-1"></i>
+        MongoDB</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-mongoose-original px-1"></i>
+        Mongoose</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-mysql-original px-1"></i>
+        MySQL</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-sqlite-plain px-1"></i>
+        SQLite</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-postgresql-plain px-1"></i>
+        PostgreSQL</kbd>
+</div>
 
-###
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">Version Control</h2>
+<div class="max-w-7xl px-4 gap-4  flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-git-plain px-1"></i>
+        Git</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-github-original px-1"></i>
+        GitHub</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-gitlab-plain px-1"></i>
+        Gitlab</kbd>
+</div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="40" alt="Vercel logo"  />
-  <img width="12" />
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="40" alt="Fedora logo" />
-  <img width = "12" />
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width = "12" />
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu logo" />
-  <img width = "12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" alt="maven logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="ViteJs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">Operating Systems</h2>
+<div class="max-w-7xl px-4 gap-4  flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-fedora-plain px-1"></i>
+        Fedora</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-linux-plain px-1"></i>
+        Linux</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-ubuntu-plain px-1"></i>
+        Ubuntu</kbd>
+</div>
+
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">Machine Learning</h2>
+<div class="max-w-7xl px-4 gap-4  flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-pytorch-original px-1"></i>
+        PyTorch</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-tensorflow-original px-1"></i>
+        TensorFlow</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-matplotlib-plain px-1"></i>
+        Matplotlib</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-scikitlearn-plain px-1"></i>
+        Scikitlearn</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl"><i
+        class="devicon-pandas-plain px-1"></i>
+        Pandas</kbd>
+</div>
+
+<h2 class="mx-auto text-2xl p-4 max-w-7xl">Others</h2>
+<div class="max-w-7xl px-4 gap-4 mb-6 flex flex-wrap mx-auto">
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-gradle-original px-1"></i>
+        Gradle</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-maven-plain px-1"></i>
+        Maven</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-npm-original-wordmark px-1"></i>
+        NPM</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-vitejs-plain px-1"></i>
+        Vite</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-postman-plain px-1"></i>
+        Postman</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-vscode-plain px-1"></i>
+        VSCode</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-jetbrains-plain px-1"></i>
+        JetBrains</kbd>
+    <kbd class="kbd kbd-md hover:border-secondary hover:shadow-lg hover:shadow-[#ff00cc] text-xl">
+        <i class="devicon-powershell-plain px-1"></i>
+        Powershell</kbd>
 </div>
 
 ###
