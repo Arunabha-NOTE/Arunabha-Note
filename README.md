@@ -123,7 +123,7 @@
 ###
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Arunabha-Note&show_icons=true&hide_border=true&theme=algolia" height="250px" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Arunabha-Note&show_icons=true&hide_border=true&theme=algolia" height="250px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunabha-Note&locale=en&hide_title=false&layout=compact&langs_count=5&theme=algolia&hide_border=true&order=2" height="150px"  width="50%" alt="languages graph"  />
 </p>
 
