@@ -4,13 +4,18 @@
 
 <p align="left">I am Arunabha Mukhopadhyay a Full Stack Developer.</p>
 
-###
+## Current Goals
+- **Linux Kernel Development**
+- **Deep Learning**
+
 
 ###
 
-<h2 >
-    Tools & Technologies</h2>
-<P >Below are the tools and Technologies that i have familiarity with and have made use of in my projects and research.</P>
+###
+
+<h2 >Tools & Technologies</h2>
+<P >Below are the tools and Technologies that i have familiarity with and have made use of in my projects and
+research.</P>
 <h2 >Languages</h2>
 <div >
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
