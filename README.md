@@ -6,7 +6,7 @@
 
 ## Current Goals
 - **Linux Kernel Development**
-- **Deep Learning**
+- **Machine Learning**
 
 
 ###
