@@ -101,7 +101,7 @@ research.</P>
 
 </div>
 
-<h2 >Others</h2>
+<h2 >Tools</h2>
 <div class="max-w-7xl px-4 gap-4 mb-6 flex flex-wrap mx-auto">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
