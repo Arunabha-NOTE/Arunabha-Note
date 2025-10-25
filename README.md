@@ -4,11 +4,6 @@
 
 <p align="left">I am Arunabha Mukhopadhyay a Full Stack Developer.</p>
 
-## Current Goals
-- **Linux Kernel Development**
-- **Machine Learning**
-
-
 ###
 
 ###
