@@ -60,11 +60,7 @@ directly contributes to revenue milestones.
 > I care about **clarity, correctness, and impact** — both in code and in systems design.
 
 ## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunabha-NOTE&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arunabha-NOTE&theme=dracula" height="160"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arunabha-Note&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
 
 
 
