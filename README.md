@@ -61,8 +61,7 @@ directly contributes to revenue milestones.
 
 ## Stats
 
-###
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Arunabha-NOTE&theme=dracula)
-
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arunabha-NOTE&theme=dracula"
+       alt="GitHub Streak Stats" />
+</p>
