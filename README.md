@@ -61,6 +61,10 @@ directly contributes to revenue milestones.
 
 ## Stats
 
-<img src="https://streak-stats.demolab.com?user=Arunabha-NOTE&theme=dracula&format=png" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunabha-NOTE&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arunabha-NOTE&theme=dracula" height="160"/>
+</p>
+
 
 
