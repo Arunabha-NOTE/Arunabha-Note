@@ -13,15 +13,6 @@ directly contributes to revenue milestones.
 
 ---
 
-## 🔹 What I Do Best
-- Design **scalable backend architectures** (REST, async, LLM-driven workflows)
-- Build **AI-native applications** (Chatbots, agents, RAG, workflow orchestration)
-- Deliver software using **agile sprint-based models** with clear acceptance criteria
-- Work end-to-end: **architecture → implementation → testing → deployment**
-- Collaborate directly with **clients and stakeholders**
-
----
-
 ## 🚀 Featured Projects
 
 ### 🧳 Travel Agent (LLM Architecture Comparison)
@@ -29,10 +20,6 @@ directly contributes to revenue milestones.
 - Building an AI-powered travel planning system using **LLM agents**.
 - Implemented **LangChain, LangGraph, and Deep Agents** with user-selectable architectures.
 - Comparing agent performance as part of an **academic research paper**.
-
----
-
-> I care about **clarity, correctness, and impact** — both in code and in systems design.
 
 ---
 
