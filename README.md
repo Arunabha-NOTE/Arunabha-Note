@@ -15,11 +15,10 @@ directly contributes to revenue milestones.
 
 ## 🚀 Featured Projects
 
-### 🧳 Travel Agent (LLM Architecture Comparison)
+### Travel Agent (LLM Architecture Comparison)
 **Next.js · FastAPI · LangChain · PostgreSQL · Docker**
 - Building an AI-powered travel planning system using **LLM agents**.
 - Implemented **LangChain, LangGraph, and Deep Agents** with user-selectable architectures.
-- Comparing agent performance as part of an **academic research paper**.
 
 ---
 
