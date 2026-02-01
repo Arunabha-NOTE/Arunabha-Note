@@ -35,7 +35,4 @@ directly contributes to revenue milestones.
 > I care about **clarity, correctness, and impact** — both in code and in systems design.
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arunabha-NOTE&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunabha-NOTE&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
