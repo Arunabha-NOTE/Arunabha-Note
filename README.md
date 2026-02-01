@@ -37,4 +37,6 @@ directly contributes to revenue milestones.
 ---
 
 ## Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunabha-NOTE&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Arunabha-NOTE&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Arunabha-NOTE&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arunabha-NOTE&layout=compact&theme=dracula)
