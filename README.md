@@ -5,7 +5,7 @@
 I build **production-grade systems** that move from requirements → architecture → delivery — with a strong focus on
 **backend design, scalable APIs, and AI-native workflows**.  
 Experienced in **client-facing sprint delivery**, translating business requirements into deployable software that
- directly contributes to revenue milestones.
+directly contributes to revenue milestones.
 
 🌐 Portfolio: https://arunabha.in  
 📫 Email: arunabham2017@gmail.com  
@@ -36,16 +36,5 @@ Experienced in **client-facing sprint delivery**, translating business requireme
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunabha-NOTE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunabha-NOTE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunabha-NOTE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunabha-NOTE&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
