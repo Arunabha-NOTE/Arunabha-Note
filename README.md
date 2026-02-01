@@ -22,23 +22,6 @@ directly contributes to revenue milestones.
 
 ---
 
-## 🧠 Technical Focus
-**Languages**  
-`Java` · `Python` · `TypeScript` · `JavaScript`
-
-**Frameworks & Backend**  
-`Spring Boot` · `FastAPI` · `NestJS` · `Next.js (React)`
-
-**AI / ML**  
-`LLMs` · `LangChain` · `LangGraph` · `RAG Pipelines` · `Vision Transformers`
-
-**Databases**  
-`PostgreSQL` · `MongoDB`
-
-**Cloud & DevOps**  
-`Docker` · `AWS` · `GitHub Actions` · `CI/CD`
-
----
 ## 🚀 Featured Projects
 
 ### 🧳 Travel Agent (LLM Architecture Comparison)
@@ -46,14 +29,6 @@ directly contributes to revenue milestones.
 - Building an AI-powered travel planning system using **LLM agents**.
 - Implemented **LangChain, LangGraph, and Deep Agents** with user-selectable architectures.
 - Comparing agent performance as part of an **academic research paper**.
-
----
-
-## 📌 Currently Exploring
-- Advanced backend system design
-- LLM orchestration & evaluation
-- Distributed systems & cloud-native architectures
-- Production AI reliability & performance
 
 ---
 
