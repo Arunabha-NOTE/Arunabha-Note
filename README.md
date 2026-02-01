@@ -5,7 +5,7 @@
 I build **production-grade systems** that move from requirements → architecture → delivery — with a strong focus on
 **backend design, scalable APIs, and AI-native workflows**.  
 Experienced in **client-facing sprint delivery**, translating business requirements into deployable software that
-directly contributes to revenue milestones.
+ directly contributes to revenue milestones.
 
 🌐 Portfolio: https://arunabha.in  
 📫 Email: arunabham2017@gmail.com  
@@ -34,10 +34,18 @@ directly contributes to revenue milestones.
 
 > I care about **clarity, correctness, and impact** — both in code and in systems design.
 
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunabha-NOTE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunabha-NOTE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunabha-NOTE&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunabha-NOTE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Arunabha-NOTE&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunabha-NOTE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
