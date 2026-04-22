@@ -13,15 +13,6 @@ directly contributes to revenue milestones.
 
 ---
 
-## 🚀 Featured Projects
-
-### Travel Agent (LLM Architecture Comparison)
-**Next.js · FastAPI · LangChain · PostgreSQL · Docker**
-- Building an AI-powered travel planning system using **LLM agents**.
-- Implemented **LangChain, LangGraph, and Deep Agents** with user-selectable architectures.
-
----
-
 ## Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Arunabha-NOTE&show_icons=true&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Arunabha-NOTE&theme=dracula)
