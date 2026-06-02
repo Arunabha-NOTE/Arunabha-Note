@@ -13,5 +13,5 @@ directly contributes to revenue milestones.
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Arunabha-NOTE&show_icons=true&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Arunabha-NOTE&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arunabha-NOTE&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Arunabha-NOTE&theme=dracula)
