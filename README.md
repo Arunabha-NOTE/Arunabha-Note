@@ -7,10 +7,6 @@ I build **production-grade systems** that move from requirements → architectur
 Experienced in **client-facing sprint delivery**, translating business requirements into deployable software that
 directly contributes to revenue milestones.
 
-🌐 Portfolio: https://arunabha.in  
-📫 Email: arunabham2017@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/arunabha-mukhopadhyay  
-
 ## Stats
 
 <div align="center">
